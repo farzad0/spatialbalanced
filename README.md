@@ -1,1 +1,3 @@
 # spatialbalanced
+Most of these code is to simulate a balanced network with
+spitial extantion...
